@@ -10,5 +10,9 @@
   "location": "Modesto, CA",
   "zipCode": "95350",
   "bannerImage": "https://ik.imagekit.io/serviceproviders/affordable-roofing.net/Banner.jpg?updatedAt=1743744663705",
-  "logo": "https://ik.imagekit.io/serviceproviders/affordable-roofing.net/logo.png?updatedAt=1743745351899"
+    "logoImage": "https://ik.imagekit.io/serviceproviders/affordable-roofing.net/logo.png?updatedAt=1743745351899",
+    "favicon": "",
+    "googleAnalytics": "",
+    "main": "#f79c34",
+    "minor": "#c37b29"
 }
